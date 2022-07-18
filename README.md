@@ -6,5 +6,5 @@ Basic simulation of a few planets using Pygame. Credit to TechwithTim for the tu
 Set up
 Pip install Pygame
 
-
+See short demo here
 https://youtube.com/shorts/L7WNqSX_t34?feature=share
